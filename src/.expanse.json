@@ -1,0 +1,267 @@
+{
+  "entrySpaceId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+  "objects": {
+    "1a6b86e5-1d5d-404a-a8ed-abe3c7f74bd3": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "1a6b86e5-1d5d-404a-a8ed-abe3c7f74bd3",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/dreamina-2026-11-24-9147-Necesito_que_animes_esta_imagen_que.mp4"
+        }
+      },
+      "name": "dreamina-2026-11-24-9147-Necesito_que_animes_esta_imagen_que",
+      "order": 0.6985901458382872,
+      "parentId": "256adb16-4565-4a6f-9224-a5b6a1094020",
+      "position": [
+        0,
+        -4.336808689942018e-19,
+        -0.0030000000000000005
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "256adb16-4565-4a6f-9224-a5b6a1094020": {
+      "components": {},
+      "geometry": null,
+      "id": "256adb16-4565-4a6f-9224-a5b6a1094020",
+      "imageTarget": {
+        "name": "iamgenes_AR-02"
+      },
+      "material": null,
+      "name": "Marcador · iamgenes_AR-02",
+      "order": 5.5,
+      "parentId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "467b319e-a5ef-4efd-8820-b7f82fa8e1c8": {
+      "components": {},
+      "geometry": null,
+      "id": "467b319e-a5ef-4efd-8820-b7f82fa8e1c8",
+      "light": {
+        "type": "ambient"
+      },
+      "material": null,
+      "name": "Luz ambiental",
+      "order": 1.5,
+      "parentId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+      "position": [
+        10,
+        5,
+        5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "61c1d209-0904-4f52-9f77-59f32f6b0d92": {
+      "components": {},
+      "geometry": null,
+      "id": "61c1d209-0904-4f52-9f77-59f32f6b0d92",
+      "light": {
+        "type": "directional",
+        "intensity": 1
+      },
+      "material": null,
+      "name": "Luz direccional",
+      "order": 2.5,
+      "parentId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+      "position": [
+        20,
+        50,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "6bc40ddf-ff34-42a5-baab-65a6643f790e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "6bc40ddf-ff34-42a5-baab-65a6643f790e",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/dreamina-2026-11-24-1517-Necesito_que_animes_esta_imagen_que.mp4"
+        }
+      },
+      "name": "dreamina-2026-11-24-1517-Necesito_que_animes_esta_imagen_que",
+      "order": 0.8882863087181443,
+      "parentId": "b200f543-922a-4150-b830-04026e2b59e1",
+      "position": [
+        0,
+        0,
+        0.03
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "7ffece3a-24fe-4202-946b-69c2f3f33fd4": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "7ffece3a-24fe-4202-946b-69c2f3f33fd4",
+      "material": null,
+      "name": "Cámara",
+      "order": 0.5,
+      "parentId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "b200f543-922a-4150-b830-04026e2b59e1": {
+      "components": {},
+      "geometry": null,
+      "id": "b200f543-922a-4150-b830-04026e2b59e1",
+      "imageTarget": {
+        "name": "iamgenes_AR-01"
+      },
+      "material": null,
+      "name": "Marcador · iamgenes_AR-01",
+      "order": 4.5,
+      "parentId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "spaces": {
+    "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4": {
+      "activeCamera": "7ffece3a-24fe-4202-946b-69c2f3f33fd4",
+      "id": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
+      "name": "Espacio principal"
+    }
+  }
+}

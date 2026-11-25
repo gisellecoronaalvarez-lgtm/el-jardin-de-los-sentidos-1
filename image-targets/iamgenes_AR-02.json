@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/iamgenes_AR-02_luminance.png",
+  "resources": {
+    "originalImage": "iamgenes_AR-02_original.png",
+    "croppedImage": "iamgenes_AR-02_cropped.png",
+    "thumbnailImage": "iamgenes_AR-02_thumbnail.png",
+    "luminanceImage": "iamgenes_AR-02_luminance.png"
+  },
+  "name": "iamgenes_AR-02",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 709,
+    "left": 0,
+    "width": 2126,
+    "height": 2835,
+    "isRotated": true,
+    "originalWidth": 2126,
+    "originalHeight": 4252
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795615691316,
+  "updated": 1795615691316
+}
